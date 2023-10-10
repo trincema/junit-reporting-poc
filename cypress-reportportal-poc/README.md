@@ -8,3 +8,4 @@ Proof of Concept for Cypress Reportportal integration
 ## Links
 - https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/
 - https://docs.cypress.io/guides/guides/command-line
+- https://github.com/reportportal/agent-js-cypress#readme

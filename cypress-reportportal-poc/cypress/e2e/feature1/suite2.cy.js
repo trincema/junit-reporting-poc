@@ -20,11 +20,11 @@ describe('TestSuite2', () => {
     cy.visit('https://example.cypress.io/todo')
   })
 
-  it('test_case_1', () => {
+  it('test_case_3', () => {
     cy.get('.todo-list li').should('have.length', 3);
   })
 
-  it('test_case_2', () => {
+  it('test_case_4', () => {
     cy.get('.todo-list li').should('have.length', 3);
   })
 

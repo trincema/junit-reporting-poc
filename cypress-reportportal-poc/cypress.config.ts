@@ -10,6 +10,7 @@ export default defineConfig({
     launch: 'Cypress launch',
     project: 'default_personal',
     description: 'Cypress launch',
+    autoMerge: true,
     attributes: [
       {
         key: 'attributeKey',
